@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+soup.fontserver.egg-info/PKG-INFO
+soup.fontserver.egg-info/SOURCES.txt
+soup.fontserver.egg-info/dependency_links.txt
+soup.fontserver.egg-info/entry_points.txt
+soup.fontserver.egg-info/not-zip-safe
+soup.fontserver.egg-info/top_level.txt
+soupfontserver/__init__.py
