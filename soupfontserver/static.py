@@ -21,6 +21,5 @@ class StaticDir(object):
         self.app = app
 
     def __call__(self):
-        self.request.blank('/')
         res = self.request.get_response(self.app)
         return res
